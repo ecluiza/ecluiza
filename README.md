@@ -5,7 +5,7 @@ Votuporanga, SP · Remoto ou presencial</p>
 
 <p>
   <a href="mailto:maecastr2@gmail.com"><img src="https://img.shields.io/badge/E--mail-maecastr2%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Maria%20Luiza%20Castro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/maria-luiza-castro-034737269"><img src="https://img.shields.io/badge/LinkedIn-Maria%20Luiza%20Castro-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -59,18 +59,3 @@ Ministrei curso de HTML, CSS e JavaScript para professores e alunos da rede esta
 ---
 
 <sub>Bacharelado em Sistemas de Informação — IFSP · Inglês intermediário</sub>
-
-<!--
-**ecluiza/ecluiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
